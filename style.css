@@ -1,0 +1,95 @@
+#div1{
+    background-color: black;
+    width :1520px;
+    height : 100px;
+}
+#i1{
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+    width : 40px;
+    height : 40px;
+    border-radius: 50%;
+}
+#t1{
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+#i2{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    width : 50px;
+    height : 50px;
+    border-radius: 60%;
+
+}
+#t2{
+    color: azure;
+    font-family:cursive;
+    float: left;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+#i3{
+    float: left;
+    margin-top: 20px;
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;
+}
+#i4{
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+    width : 25px;
+    height : 25px;
+    border-radius: 10%;
+}
+#t4{
+   float :left;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border-color:rgb(217, 199, 94) ;
+}
+#div2{
+    background-color: black;
+    width :1520px;
+    height : 100px;
+}
+#tt2{
+    color: azure;
+    font-family:cursive;
+    float: left;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+#tt1{
+    float: left;
+    color: rgb(21, 173, 173);
+    margin-top: 25px;
+    margin-left: 20px;
+}
+#div3{
+    background-color: black;
+    width :1520px;
+    height : 300px;
+}
+#ii2{
+    margin-top: 30px;
+    margin-left: 40px;
+    height:210px;
+    width : 170px;
+    border-radius: 20px;
+
+}
+#div4{
+    background-color: black;
+    width :1520px;
+    height : 100px;
+}
+
